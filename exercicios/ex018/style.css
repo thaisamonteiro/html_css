@@ -1,0 +1,11 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(180, 198, 201);
+}
+h1{
+    font-family: 'Libre Baskerville', serif;
+    font-size: 1.5em;
+    color: rgb(22, 55, 56);
+}
