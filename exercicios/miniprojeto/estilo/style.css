@@ -168,12 +168,6 @@ aside {
     border-radius: 10px;
 }
 
-aside > ul{
-    list-style-type: '\1F5F8\00a0\00a0';
-    list-style-position: inside;
-    columns: 2;
-}
-
 aside > h3 {
     background-color: var(--cor4);
     color: white;
