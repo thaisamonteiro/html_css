@@ -177,6 +177,12 @@ aside > h3 {
     border-top-right-radius: 5px;
 }
 
+main > article > aside > ul {
+    columns: 2;
+    list-style-position: inside;
+
+}
+
 a.externo::after {
     content: '\00a0\1F517';
 }
